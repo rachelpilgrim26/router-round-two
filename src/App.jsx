@@ -15,7 +15,7 @@ function App() {
             <Link to="/about">About</Link>
           </li>
           <li>
-            <Link to="/gallery">About</Link>
+            <Link to="/gallery">Gallery</Link>
           </li>
         </ul>
       </nav>
